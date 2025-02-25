@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\valen\OneDrive\Escritorio\PreLab_3\PreLab_3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\valen\OneDrive\Escritorio\PreLab_3\PreLab_3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328PBdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pbdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\valen\OneDrive\Escritorio\PreLab_3\PreLab_3\Debug\PreLab_3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>PreLab_3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>PreLab_3.map</FILE>
+  <FILE>PreLab_3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\valen\OneDrive\Escritorio\PreLab_3\PreLab_3\main.asm</FILE><LINE>37</LINE></SETUP>
+  <ISR_PCINT0><FILE>C:\Users\valen\OneDrive\Escritorio\PreLab_3\PreLab_3\main.asm</FILE><LINE>77</LINE></ISR_PCINT0>
+  <MAIN><FILE>C:\Users\valen\OneDrive\Escritorio\PreLab_3\PreLab_3\main.asm</FILE><LINE>69</LINE></MAIN>
+  <NO_CHANGE><FILE>C:\Users\valen\OneDrive\Escritorio\PreLab_3\PreLab_3\main.asm</FILE><LINE>103</LINE></NO_CHANGE>
+  <CHECK_DEC><FILE>C:\Users\valen\OneDrive\Escritorio\PreLab_3\PreLab_3\main.asm</FILE><LINE>93</LINE></CHECK_DEC>
+  <ACTUALIZAR_ESTADO><FILE>C:\Users\valen\OneDrive\Escritorio\PreLab_3\PreLab_3\main.asm</FILE><LINE>99</LINE></ACTUALIZAR_ESTADO>
+ </LABELS>
+</ASSEMBLER_INFO>

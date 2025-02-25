@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 3\Lab_3\PostLab_3\PostLab_3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 3\Lab_3\PostLab_3\PostLab_3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328PBdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pbdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 3\Lab_3\PostLab_3\PostLab_3\Debug\PostLab_3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>PostLab_3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>PostLab_3.map</FILE>
+  <FILE>PostLab_3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 3\Lab_3\PostLab_3\PostLab_3\main.asm</FILE><LINE>52</LINE></SETUP>
+  <ISR_PCINT0><FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 3\Lab_3\PostLab_3\PostLab_3\main.asm</FILE><LINE>149</LINE></ISR_PCINT0>
+  <TMR0_ISR><FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 3\Lab_3\PostLab_3\PostLab_3\main.asm</FILE><LINE>178</LINE></TMR0_ISR>
+  <TABLA7SEG><FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 3\Lab_3\PostLab_3\PostLab_3\main.asm</FILE><LINE>46</LINE></TABLA7SEG>
+  <MAIN><FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 3\Lab_3\PostLab_3\PostLab_3\main.asm</FILE><LINE>112</LINE></MAIN>
+  <SHOW_DECENAS><FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 3\Lab_3\PostLab_3\PostLab_3\main.asm</FILE><LINE>132</LINE></SHOW_DECENAS>
+  <SHOW_UNIDADES><FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 3\Lab_3\PostLab_3\PostLab_3\main.asm</FILE><LINE>119</LINE></SHOW_UNIDADES>
+  <MAIN_END><FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 3\Lab_3\PostLab_3\PostLab_3\main.asm</FILE><LINE>143</LINE></MAIN_END>
+  <CHECK_DEC><FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 3\Lab_3\PostLab_3\PostLab_3\main.asm</FILE><LINE>161</LINE></CHECK_DEC>
+  <ACTUALIZAR_ESTADO><FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 3\Lab_3\PostLab_3\PostLab_3\main.asm</FILE><LINE>166</LINE></ACTUALIZAR_ESTADO>
+  <TMR0_EXIT><FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 3\Lab_3\PostLab_3\PostLab_3\main.asm</FILE><LINE>202</LINE></TMR0_EXIT>
+ </LABELS>
+</ASSEMBLER_INFO>
